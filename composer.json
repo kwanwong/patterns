@@ -1,0 +1,10 @@
+{
+  "autoload":{
+    "psr-4":{
+      "Observer\\": "src/observer/",
+      "Closure\\": "src/closures/",
+      "TemplateMethod\\": "src/template-method/",
+      "AbstractFactory\\": "src/abstract-factory/"
+    }
+  }
+}
